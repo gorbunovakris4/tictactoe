@@ -61,3 +61,5 @@ def play():
 
         if check_game_over(game):
             return
+
+play()
